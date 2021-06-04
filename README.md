@@ -1,2 +1,2 @@
 # meth_cancer
-run codes from setParams.R
+run codes from set_params.R
